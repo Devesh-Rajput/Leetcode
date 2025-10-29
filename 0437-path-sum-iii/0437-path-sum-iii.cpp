@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    void solve(TreeNode* root, vector<int> path, int &count, int targetSum){
+    void solve(TreeNode* root, vector<int>& path, int &count, int targetSum){
         if(root==NULL)
             return;
 
