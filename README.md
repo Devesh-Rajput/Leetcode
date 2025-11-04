@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Devesh-Rajput/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
