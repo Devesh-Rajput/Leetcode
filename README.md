@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0020-valid-parentheses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Devesh-Rajput/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devesh-Rajput/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
