@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Devesh-Rajput/Leetcode/tree/master/0077-combinations) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
