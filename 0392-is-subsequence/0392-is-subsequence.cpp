@@ -1,5 +1,5 @@
 class Solution {
-    bool helper(int i, int j, const string s,const string t, vector<vector<int>> &dp){
+    bool helper(int i, int j, string &s, string &t, vector<vector<int>> &dp){
         if(i==s.size()) {return true;}
         if(j==t.size()) {return false;}
 
