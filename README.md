@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
