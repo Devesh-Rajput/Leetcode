@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devesh-Rajput/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
@@ -142,9 +146,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
