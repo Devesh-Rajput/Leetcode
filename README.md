@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Devesh-Rajput/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Devesh-Rajput/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
