@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Devesh-Rajput/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devesh-Rajput/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
