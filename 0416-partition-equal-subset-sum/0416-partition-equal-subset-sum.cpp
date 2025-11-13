@@ -9,7 +9,7 @@ class Solution {
         bool include=helper(i+1, n, target-nums[i], nums, dp);
         bool exclude=helper(i+1, n, target, nums, dp);
 
-        dp[i][target]=(include || exclude) ? 1 : 0 ;
+        dp[i][target]=(include || exclude);
 
         return dp[i][target];
 
