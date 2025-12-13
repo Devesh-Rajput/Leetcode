@@ -14,23 +14,19 @@ public:
 */
 
 class Solution {
+    void helper(Node* root, int level, vector<int> &ans){
+        if(root==NULL) return;
+        
+        if(level==ans.size()) ans.push_back(root->data);
+        
+        helper(root->left, level+1, ans);
+        helper(root->right, level+1, ans);
+    }
   public:
     vector<int> leftView(Node *root) {
         // code here
         vector<int> ans;
-        if(root==NULL) return ans;
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            int n=q.size();
-            ans.push_back(q.front()->data);
-            while(n--){
-                Node* node=q.front();
-                q.pop();
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-        }
+        helper(root, 0, ans);
         return ans;
     }
 };
