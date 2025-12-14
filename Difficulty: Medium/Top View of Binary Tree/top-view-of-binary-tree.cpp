@@ -14,37 +14,46 @@ class Node {
 */
 
 class Solution {
+    void find(Node* root, int &l, int &r, int pos){
+        if(root==nullptr) return;
+        
+        l=min(l, pos);
+        r=max(r, pos);
+        find(root->left, l, r, pos-1);
+        find(root->right, l, r, pos+1);
+    }
   public:
     vector<int> topView(Node *root) {
         // code here
-        vector<int> ans;
-        if(root==NULL)
-            return ans;
+        int l=0, r=0;
+        find(root, l, r, 0);
+        vector<int> ans(r-l+1);
+        vector<bool> filled(r-l+1, 0);
+        queue<Node*> q;
+        queue<int> index;
         
-        map<int, int> topNode;
-        queue<pair<Node*, int>> q;
-        
-        q.push({root, 0});
+        q.push(root);
+        index.push(-l);
         
         while(!q.empty()){
-            pair<Node*, int> temp= q.front();
+            Node* node=q.front();
             q.pop();
+            int i=index.front();
+            index.pop();
             
-            Node* frontNode=temp.first;
-            int hd=temp.second;
+            if(!filled[i]){
+                filled[i]=1;
+                ans[i]=node->data;
+            }
             
-            if(topNode.find(hd)==topNode.end())
-                topNode[hd]=frontNode->data;
-                
-            if(frontNode->left)
-                q.push(make_pair(frontNode->left, hd-1));
-                
-            if(frontNode->right)
-                q.push(make_pair(frontNode->right, hd+1));
-        }
-        
-        for(auto i: topNode){
-            ans.push_back(i.second);
+            if(node->left){
+                q.push(node->left);
+                index.push(i-1);
+            }
+            if(node->right){
+                q.push(node->right);
+                index.push(i+1);
+            }
         }
         return ans;
         
