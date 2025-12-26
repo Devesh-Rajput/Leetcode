@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0437-path-sum-iii) |
 ## Array
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0437-path-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
