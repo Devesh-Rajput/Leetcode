@@ -13,37 +13,35 @@ public:
 */
 
 class Solution {
+    void find(Node* root, int &l, int &r, int pos){
+        if(root==nullptr) return;
+        
+        l=min(l, pos);
+        r=max(r, pos);
+        find(root->left, l, r, pos-1);
+        find(root->right, l, r, pos+1);
+    }
+    
+     void tView(Node* root, int pos, vector<int> &ans, vector<int> &level, int lvl){
+        if(root==NULL) return;
+        
+        if(level[pos]<=lvl){
+            ans[pos]=root->data;
+            level[pos]=lvl;
+        }
+        
+        tView(root->left, pos-1, ans, level, lvl+1);
+        tView(root->right, pos+1, ans, level, lvl+1);
+    }
   public:
     vector<int> bottomView(Node *root) {
         // code here
-        vector<int> ans;
-        if(root==NULL)
-            return ans;
+        int l=0, r=0;
+        find(root, l, r, 0);
+        vector<int> ans(r-l+1);
+        vector<int> level(r-l+1, INT_MIN);
         
-        map<int, int> Nodes;
-        queue<pair<Node*, int>> q;
-        
-        q.push({root, 0});
-        
-        while(!q.empty()){
-            pair<Node*, int> temp=q.front();
-            q.pop();
-            
-            Node* frontNode=temp.first;
-            int hd=temp.second;
-            
-            Nodes[hd]=frontNode->data;
-            
-            if(frontNode->left)
-                q.push(make_pair(frontNode->left, hd-1));
-            if(frontNode->right)
-                q.push(make_pair(frontNode->right, hd+1));
-            
-        }
-        
-        for(auto i: Nodes){
-            ans.push_back(i.second);
-        }
+        tView(root, -1*l, ans, level, 0);
         return ans;
     }
 };
