@@ -229,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Devesh-Rajput/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
