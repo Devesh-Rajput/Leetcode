@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Devesh-Rajput/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
