@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Devesh-Rajput/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Devesh-Rajput/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0051-n-queens) |
@@ -289,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Devesh-Rajput/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
