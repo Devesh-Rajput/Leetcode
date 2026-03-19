@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Devesh-Rajput/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devesh-Rajput/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0213-house-robber-ii) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devesh-Rajput/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Devesh-Rajput/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devesh-Rajput/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
 | ------- |
