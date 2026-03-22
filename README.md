@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Devesh-Rajput/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Devesh-Rajput/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Devesh-Rajput/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
