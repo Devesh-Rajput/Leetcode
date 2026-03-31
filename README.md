@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Devesh-Rajput/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Devesh-Rajput/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devesh-Rajput/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0894-all-possible-full-binary-trees](https://github.com/Devesh-Rajput/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devesh-Rajput/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0876-middle-of-the-linked-list) |
