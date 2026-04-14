@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1416-restore-the-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1416-restore-the-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Devesh-Rajput/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Devesh-Rajput/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
