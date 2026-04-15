@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0684-redundant-connection](https://github.com/Devesh-Rajput/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Devesh-Rajput/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0437-path-sum-iii) |
 | [0684-redundant-connection](https://github.com/Devesh-Rajput/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Devesh-Rajput/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Devesh-Rajput/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Devesh-Rajput/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Devesh-Rajput/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/Devesh-Rajput/Leetcode/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Devesh-Rajput/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Devesh-Rajput/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
