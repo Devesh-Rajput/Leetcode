@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Devesh-Rajput/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devesh-Rajput/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
 |  |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
