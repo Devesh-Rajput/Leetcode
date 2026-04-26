@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Devesh-Rajput/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Devesh-Rajput/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devesh-Rajput/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
