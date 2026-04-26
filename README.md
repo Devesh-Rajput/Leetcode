@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Devesh-Rajput/Leetcode/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
