@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1043-partition-array-for-maximum-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Devesh-Rajput/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1416-restore-the-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1416-restore-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devesh-Rajput/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
