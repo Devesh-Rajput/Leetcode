@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3861-minimum-capacity-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/3861-minimum-capacity-box) |
 ## Math
 |  |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Devesh-Rajput/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1416-restore-the-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1416-restore-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
