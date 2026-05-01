@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Rajput/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
 | [0728-self-dividing-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
