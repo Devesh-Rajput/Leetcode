@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Devesh-Rajput/Leetcode/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0796-rotate-string) |
 ## Enumeration
 |  |
 | ------- |
