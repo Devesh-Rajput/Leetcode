@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Devesh-Rajput/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Devesh-Rajput/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devesh-Rajput/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Devesh-Rajput/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2833-furthest-point-from-origin](https://github.com/Devesh-Rajput/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
