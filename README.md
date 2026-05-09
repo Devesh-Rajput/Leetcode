@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devesh-Rajput/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1416-restore-the-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devesh-Rajput/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devesh-Rajput/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
