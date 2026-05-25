@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Devesh-Rajput/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Devesh-Rajput/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devesh-Rajput/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Merge Sort
 |  |
