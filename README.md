@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Devesh-Rajput/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Devesh-Rajput/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
