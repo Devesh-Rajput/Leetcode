@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Devesh-Rajput/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Devesh-Rajput/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Devesh-Rajput/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2833-furthest-point-from-origin](https://github.com/Devesh-Rajput/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Devesh-Rajput/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
