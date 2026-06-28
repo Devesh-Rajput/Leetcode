@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Rajput/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Devesh-Rajput/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh-Rajput/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Devesh-Rajput/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Devesh-Rajput/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh-Rajput/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Devesh-Rajput/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
