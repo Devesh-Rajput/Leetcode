@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Devesh-Rajput/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Devesh-Rajput/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Devesh-Rajput/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Devesh-Rajput/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0148-sort-list) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Devesh-Rajput/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0061-rotate-list) |
