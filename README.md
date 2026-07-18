@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Devesh-Rajput/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Devesh-Rajput/Leetcode/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/Devesh-Rajput/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/Devesh-Rajput/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0788-rotated-digits) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Devesh-Rajput/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
