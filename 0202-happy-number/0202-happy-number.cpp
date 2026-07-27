@@ -1,23 +1,20 @@
 class Solution {
-    int square(int x) {
+public:
+    int sq(int n) {
         int sum = 0;
-        while (x > 0) {
-            int digit = x % 10;
-            x /= 10;
-            sum += (digit * digit);
+        while (n > 0) {
+            int d = n % 10;
+            sum += (d * d);
+            n /= 10;
         }
         return sum;
     }
-
-public:
     bool isHappy(int n) {
         int slow = n, fast = n;
-        while (true) {
-            slow = square(slow);
-            fast = square(square(fast));
-            if (fast == 1)
-                return 1;
-            if (slow == fast)
+        while (fast != 1) {
+            slow = sq(slow);
+            fast = sq(sq(fast));
+            if (slow == fast && fast!=1)
                 return 0;
         }
         return 1;
