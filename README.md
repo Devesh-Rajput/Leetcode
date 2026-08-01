@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Devesh-Rajput/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devesh-Rajput/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Devesh-Rajput/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Devesh-Rajput/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
