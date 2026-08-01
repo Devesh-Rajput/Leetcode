@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Devesh-Rajput/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Devesh-Rajput/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Devesh-Rajput/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Devesh-Rajput/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Devesh-Rajput/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Devesh-Rajput/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Devesh-Rajput/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
@@ -585,4 +589,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-Rajput/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
