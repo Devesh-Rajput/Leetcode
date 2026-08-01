@@ -7,7 +7,7 @@ class Solution {
             return helper(p1 + nums[l], p2, nums, l + 1, r, false) ||
                    helper(p1 + nums[r], p2, nums, l, r - 1, false);
         } else {
-            return helper(p1, p2 + nums[l], nums, l + 1, r, true) ||
+            return helper(p1, p2 + nums[l], nums, l + 1, r, true) &&
                    helper(p1, p2 + nums[r], nums, l, r - 1, true);
         }
     }
