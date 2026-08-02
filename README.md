@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Devesh-Rajput/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devesh-Rajput/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Devesh-Rajput/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Devesh-Rajput/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Devesh-Rajput/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0213-house-robber-ii) |
