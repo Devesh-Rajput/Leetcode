@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Devesh-Rajput/Leetcode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Devesh-Rajput/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Devesh-Rajput/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
@@ -600,4 +603,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
