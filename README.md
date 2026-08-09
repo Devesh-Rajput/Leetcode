@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Devesh-Rajput/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Devesh-Rajput/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1236-n-th-tribonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/1250-longest-common-subsequence) |
