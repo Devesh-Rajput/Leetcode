@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Devesh-Rajput/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2833-furthest-point-from-origin](https://github.com/Devesh-Rajput/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -579,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
@@ -596,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## String Matching
 |  |
 | ------- |
