@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2833-furthest-point-from-origin](https://github.com/Devesh-Rajput/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
@@ -601,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-k-radius-subarray-averages](https://github.com/Devesh-Rajput/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## String Matching
 |  |
 | ------- |
