@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Devesh-Rajput/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3903-smallest-stable-index-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Devesh-Rajput/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
