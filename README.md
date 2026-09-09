@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Devesh-Rajput/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Devesh-Rajput/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Devesh-Rajput/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devesh-Rajput/Leetcode/tree/master/0070-climbing-stairs) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Devesh-Rajput/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Devesh-Rajput/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Devesh-Rajput/Leetcode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Devesh-Rajput/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Devesh-Rajput/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
