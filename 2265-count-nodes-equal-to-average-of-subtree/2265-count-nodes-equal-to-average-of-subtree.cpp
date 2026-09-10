@@ -13,12 +13,12 @@ class Solution {
 public:
     int result;
     
-    pair<int, int> solve(TreeNode* root) {
+    pair<int, int> helper(TreeNode* root) {
         if(!root)
             return {0, 0};
         
-        pair<int, int> l = solve(root->left);
-        pair<int, int> r = solve(root->right);
+        pair<int, int> l = helper(root->left);
+        pair<int, int> r = helper(root->right);
         
         int leftSum   = l.first;
         int leftCount = l.second;
@@ -41,7 +41,7 @@ public:
     int averageOfSubtree(TreeNode* root) {
         result = 0;
         
-        solve(root);
+        helper(root);
         
         return result;
     }
