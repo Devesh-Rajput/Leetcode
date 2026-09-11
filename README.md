@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Devesh-Rajput/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Devesh-Rajput/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Merge Sort
 |  |
