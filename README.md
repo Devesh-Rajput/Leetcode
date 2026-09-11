@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Devesh-Rajput/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-Rajput/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Devesh-Rajput/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -606,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Devesh-Rajput/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
