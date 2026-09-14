@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Devesh-Rajput/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Devesh-Rajput/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Devesh-Rajput/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-Rajput/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devesh-Rajput/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Devesh-Rajput/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devesh-Rajput/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Devesh-Rajput/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Devesh-Rajput/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
@@ -621,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Devesh-Rajput/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-Rajput/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
