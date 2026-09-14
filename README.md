@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Devesh-Rajput/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/Devesh-Rajput/Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Devesh-Rajput/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1140-stone-game-ii) |
@@ -685,4 +686,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1140-stone-game-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Devesh-Rajput/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
