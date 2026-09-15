@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Devesh-Rajput/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Devesh-Rajput/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Devesh-Rajput/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Devesh-Rajput/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-Rajput/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Number Theory
 |  |
 | ------- |
@@ -612,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Devesh-Rajput/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -690,4 +694,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Devesh-Rajput/Leetcode/tree/master/0836-rectangle-overlap) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Devesh-Rajput/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
