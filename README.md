@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Devesh-Rajput/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Devesh-Rajput/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devesh-Rajput/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Devesh-Rajput/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Devesh-Rajput/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-Rajput/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Devesh-Rajput/Leetcode/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/Devesh-Rajput/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devesh-Rajput/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-Rajput/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devesh-Rajput/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Devesh-Rajput/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-Rajput/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 |  |
