@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Devesh-Rajput/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Devesh-Rajput/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Devesh-Rajput/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devesh-Rajput/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devesh-Rajput/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-Rajput/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devesh-Rajput/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Devesh-Rajput/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Devesh-Rajput/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Devesh-Rajput/Leetcode/tree/master/1140-stone-game-ii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devesh-Rajput/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Devesh-Rajput/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2615-sum-of-distances](https://github.com/Devesh-Rajput/Leetcode/tree/master/2615-sum-of-distances) |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Devesh-Rajput/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devesh-Rajput/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Devesh-Rajput/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -416,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Devesh-Rajput/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Devesh-Rajput/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/Devesh-Rajput/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Devesh-Rajput/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-Rajput/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Devesh-Rajput/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Devesh-Rajput/Leetcode/tree/master/2540-minimum-common-value) |
